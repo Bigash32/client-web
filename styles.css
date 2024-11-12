@@ -23,3 +23,10 @@ body{
     z-index: 100;
     background-color: #0bb1df23;
 }
+
+.logo{
+    font-size: 28px;
+    color: aquamarine;
+    font-weight: 700;
+    text-decoration: none;
+}
